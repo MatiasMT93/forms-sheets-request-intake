@@ -1,0 +1,12 @@
+{
+  "name": "forms-sheets-request-intake",
+  "version": "0.1.4",
+  "private": true,
+  "description": "Automatización de solicitudes mediante Google Forms, Sheets y Apps Script",
+  "scripts": {
+    "test": "node --test tests/*.test.cjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
